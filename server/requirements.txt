@@ -1,0 +1,12 @@
+flask==3.0.2
+flask-cors==4.0.0
+python-dotenv==1.0.1
+openai-whisper==20231117
+google-generativeai==0.3.2
+sqlalchemy==2.0.27
+python-socketio==5.11.1
+eventlet==0.35.1
+PyAudio==0.2.14
+numpy==1.26.4
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.2.0+cu118
